@@ -1,0 +1,12 @@
+{
+    "name": "alshahen/pascal",
+    "description": "simple math lib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alshahen\\Pascal\\": "src/"
+        }
+    },
+    "require": {}
+}
