@@ -1,0 +1,19 @@
+{
+    "name": "alshahen/pascal",
+    "description": "simple math lib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alshahen\\Pascal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Hassan",
+            "email": "ahmed.badr@cyshield.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
