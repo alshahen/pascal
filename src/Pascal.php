@@ -5,8 +5,8 @@ namespace Alshahen\Pascal;
 class Pascal{
 
     // new line
-    public function addNumbers(int $one,int $two){
-        return $one + $two;
+    public function addNumbers(int $one,int $two, int $three){
+        return $one + $two + $three;
     }
 
 }
